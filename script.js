@@ -1,1 +1,1 @@
-const grim = "reaper";
+const grim = "sweeper";
